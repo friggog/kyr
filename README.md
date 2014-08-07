@@ -2,7 +2,9 @@ kyr
 ===
 Waveform view for ios music app scrubber
 
-![screenshot](http://i.imgur.com/XQZ1wR4.png)
+![screenshot](http://i.imgur.com/ZXgqgRk.png)
 
 Currently semi-functional.
-Any modifications must be open-source and any published tweaks must be free.
+
+- Any modifications must be open-source.
+- Any published tweaks using this code must be free.
